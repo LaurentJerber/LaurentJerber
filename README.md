@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LaurentJerber
+- 👀 I’m interested in beer, clean code and formula 1
+- 🌱 I’m currently learning every day.
+- 💞️ I’m looking to collaborate on nice python projects, for fun.
+- Currently working as embedded system engineer.
